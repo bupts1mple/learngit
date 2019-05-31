@@ -1,2 +1,2 @@
 Git is a disreibuted version control system.
-Git is free sofrware.
+Git is free sofrware disreibuted under the GPL.
